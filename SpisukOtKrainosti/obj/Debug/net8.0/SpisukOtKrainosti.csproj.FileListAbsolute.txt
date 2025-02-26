@@ -1,0 +1,14 @@
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.exe
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.deps.json
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.runtimeconfig.json
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\bin\Debug\net8.0\SpisukOtKrainosti.pdb
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.GeneratedMSBuildEditorConfig.editorconfig
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.AssemblyInfoInputs.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.AssemblyInfo.cs
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.csproj.CoreCompileInputs.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\refint\SpisukOtKrainosti.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.pdb
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\SpisukOtKrainosti.genruntimeconfig.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\SpisukOtKrainosti\obj\Debug\net8.0\ref\SpisukOtKrainosti.dll

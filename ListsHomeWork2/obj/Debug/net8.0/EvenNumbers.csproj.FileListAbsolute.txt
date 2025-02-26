@@ -1,0 +1,14 @@
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\bin\Debug\net8.0\EvenNumbers.exe
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\bin\Debug\net8.0\EvenNumbers.deps.json
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\bin\Debug\net8.0\EvenNumbers.runtimeconfig.json
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\bin\Debug\net8.0\EvenNumbers.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\bin\Debug\net8.0\EvenNumbers.pdb
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\EvenNumbers.AssemblyInfoInputs.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\EvenNumbers.AssemblyInfo.cs
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\EvenNumbers.csproj.CoreCompileInputs.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\EvenNumbers.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\refint\EvenNumbers.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\EvenNumbers.pdb
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\EvenNumbers.genruntimeconfig.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\ListsHomeWork2\obj\Debug\net8.0\ref\EvenNumbers.dll

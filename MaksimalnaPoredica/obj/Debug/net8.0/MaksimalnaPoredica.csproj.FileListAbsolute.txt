@@ -1,0 +1,14 @@
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\bin\Debug\net8.0\MaksimalnaPoredica.exe
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\bin\Debug\net8.0\MaksimalnaPoredica.deps.json
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\bin\Debug\net8.0\MaksimalnaPoredica.runtimeconfig.json
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\bin\Debug\net8.0\MaksimalnaPoredica.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\bin\Debug\net8.0\MaksimalnaPoredica.pdb
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\MaksimalnaPoredica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\MaksimalnaPoredica.AssemblyInfoInputs.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\MaksimalnaPoredica.AssemblyInfo.cs
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\MaksimalnaPoredica.csproj.CoreCompileInputs.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\MaksimalnaPoredica.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\refint\MaksimalnaPoredica.dll
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\MaksimalnaPoredica.pdb
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\MaksimalnaPoredica.genruntimeconfig.cache
+D:\Djeni 9a\Programirane\ListsHomeWork2\MaksimalnaPoredica\obj\Debug\net8.0\ref\MaksimalnaPoredica.dll
