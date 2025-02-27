@@ -18,10 +18,10 @@ namespace DaSuzdademObratnoChislo
                 int num = numbers[i];
             }
         }
-
+        //tfghy
         static int GenerateReverseNum()
         {
-
+            //eudyhgftd
         }
     }
 }
