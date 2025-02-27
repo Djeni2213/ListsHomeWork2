@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvenNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+285cfa2ca7728ae7f10fc50de50956aead17ab14")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvenNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvenNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

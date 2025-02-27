@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "ListsHomeWork2\EvenNumbers.csproj", "{A7229732-884C-4600-B299-4BABBF71B2FE}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaksimalnaPoredica", "MaksimalnaPoredica\MaksimalnaPoredica.csproj", "{1376BB7C-BE6C-4936-A64A-7D8E913EBE6F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaNaOburnatiChisla", "SumaNaOburnatiChisla\SumaNaOburnatiChisla.csproj", "{660AD49D-D301-4D70-A996-DF916FF4B65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IzvichaneNaSredniteElementi", "IzvichaneNaSredniteElementi\IzvichaneNaSredniteElementi.csproj", "{73BE255C-28AD-427B-95AE-3EA124A9BAFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaSuzdademObratnoChislo", "DaSuzdademObratnoChislo\DaSuzdademObratnoChislo.csproj", "{CECD0AFD-A894-47DB-BAAC-C72920B4A78E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{660AD49D-D301-4D70-A996-DF916FF4B65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{660AD49D-D301-4D70-A996-DF916FF4B65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{660AD49D-D301-4D70-A996-DF916FF4B65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BE255C-28AD-427B-95AE-3EA124A9BAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BE255C-28AD-427B-95AE-3EA124A9BAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BE255C-28AD-427B-95AE-3EA124A9BAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BE255C-28AD-427B-95AE-3EA124A9BAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECD0AFD-A894-47DB-BAAC-C72920B4A78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECD0AFD-A894-47DB-BAAC-C72920B4A78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECD0AFD-A894-47DB-BAAC-C72920B4A78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECD0AFD-A894-47DB-BAAC-C72920B4A78E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

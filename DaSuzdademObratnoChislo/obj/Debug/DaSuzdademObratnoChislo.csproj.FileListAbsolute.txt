@@ -1,0 +1,2 @@
+C:\Djeni 9a\ListsHomeWork2\DaSuzdademObratnoChislo\obj\Debug\DaSuzdademObratnoChislo.csproj.AssemblyReference.cache
+C:\Djeni 9a\ListsHomeWork2\DaSuzdademObratnoChislo\obj\Debug\DaSuzdademObratnoChislo.csproj.CoreCompileInputs.cache
